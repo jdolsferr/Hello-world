@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+
+Hi, I'm Joan and I'm learning how Git works.
